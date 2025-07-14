@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.exe
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.deps.json
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.runtimeconfig.json
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.dll
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\refint\PrimeiroProjeto.dll
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.pdb
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\PrimeiroProjeto.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Desktop\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net9.0\ref\PrimeiroProjeto.dll
